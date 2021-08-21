@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Image } from 'react-bootstrap';
+import profilePic from '../../images/profile-pic.jpg';
 
 const p = {
     textIndent: '12px',
@@ -15,7 +16,7 @@ const About = ()=>{
             <Row className="d-flex justify-content-center m-5">
                 <Col className='d-flex align-content-center pb-3'> 
                     <Container>
-                        <Image rounded className="d-flex justify-content-center" src="./images/profile-pic.JPG" alt="profile-pic"width="270px" height="350px"/>
+                        <Image rounded className="d-flex justify-content-center" src={profilePic} alt="profile-pic"width="270px" height="350px"/>
                     </Container>
                 </Col>
                 <Col className='d-flex align-self-center'>
