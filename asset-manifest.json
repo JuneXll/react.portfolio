@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react.portfolio/static/js/main.30334e56.chunk.js",
-    "main.js.map": "/react.portfolio/static/js/main.30334e56.chunk.js.map",
+    "main.js": "/react.portfolio/static/js/main.a88c396b.chunk.js",
+    "main.js.map": "/react.portfolio/static/js/main.a88c396b.chunk.js.map",
     "runtime-main.js": "/react.portfolio/static/js/runtime-main.5a3baa23.js",
     "runtime-main.js.map": "/react.portfolio/static/js/runtime-main.5a3baa23.js.map",
     "static/css/2.6923219e.chunk.css": "/react.portfolio/static/css/2.6923219e.chunk.css",
@@ -9,12 +9,13 @@
     "static/js/2.fdd5c442.chunk.js.map": "/react.portfolio/static/js/2.fdd5c442.chunk.js.map",
     "index.html": "/react.portfolio/index.html",
     "static/css/2.6923219e.chunk.css.map": "/react.portfolio/static/css/2.6923219e.chunk.css.map",
-    "static/js/2.fdd5c442.chunk.js.LICENSE.txt": "/react.portfolio/static/js/2.fdd5c442.chunk.js.LICENSE.txt"
+    "static/js/2.fdd5c442.chunk.js.LICENSE.txt": "/react.portfolio/static/js/2.fdd5c442.chunk.js.LICENSE.txt",
+    "static/media/atmos.bec832a1.png": "/react.portfolio/static/media/atmos.bec832a1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5a3baa23.js",
     "static/css/2.6923219e.chunk.css",
     "static/js/2.fdd5c442.chunk.js",
-    "static/js/main.30334e56.chunk.js"
+    "static/js/main.a88c396b.chunk.js"
   ]
 }
