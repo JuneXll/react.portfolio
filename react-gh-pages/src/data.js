@@ -1,3 +1,4 @@
+import travlr from './images/travlr.png';
 import recipe from './images/recipe-cookbook.png';
 import atmos from './images/atmos.png';
 import planner from './images/work-planner.png';
@@ -5,6 +6,13 @@ import dash from './images/weather.dash.png';
 import password from './images/password-generator.png';
 
 export const projects = [
+    {
+        title: 'Travlr',
+        subtitle: 'React, React-Bootstrap, JavaScript, HTML',
+        github: 'https://github.com/vyncent-t/travlr-project',
+        image: travlr,
+        link:'https://travlr-proj.herokuapp.com/'
+    },
     {
         title: 'My Recipe Cookbook',
         subtitle: 'JavaScript, Handlebars, CSS, HTML',
