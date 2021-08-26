@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Image } from 'react-bootstrap';
-import profilePic from '../../images/profile-pic.png';
+import profilePic from '../../images/profile-pic.JPG';
 
 const p = {
     textIndent: '12px',
