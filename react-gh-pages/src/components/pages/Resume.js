@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
+import resume from '../../assets/_Resume.pdf';
 
 
 const Resume= ()=>{
@@ -33,7 +34,7 @@ const Resume= ()=>{
             </Row>
 
             <Container className='mt-5 d-flex justify-content-center'>
-                <a className='text-light fs-1' href='./assets/_Resume.pdf' download>Click to download my Resume!</a>
+                <a className='text-light fs-1' href={resume} download>Click to download my Resume!</a>
             </Container>
 
         </Container>
