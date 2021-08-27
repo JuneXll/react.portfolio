@@ -24,7 +24,7 @@ const Resume= ()=>{
                             <li>jQuery</li>
                             <li>Bootstrap(React-Bootstrap)</li>
                             <li>Bulma</li>
-                            <li>GitHib</li>
+                            <li>GitHub</li>
                             <li>GitLab</li>
                             <li>Slack</li>
                             <li>Visual Studio Code</li>
