@@ -33,7 +33,7 @@ const Resume= ()=>{
             </Row>
 
             <Container className='mt-5 d-flex justify-content-center'>
-                <a className='text-light fs-1' href='./assets/WD Resume.pdf' download>Click to download my Resume!</a>
+                <a className='text-light fs-1' href='./assets/_Resume.pdf' download>Click to download my Resume!</a>
             </Container>
 
         </Container>
